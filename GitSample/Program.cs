@@ -12,6 +12,7 @@ namespace GitSample
         {
             // メッセージを表示する
             Console.WriteLine("Hello!");
+            int i = 5 + 10;
         }
     }
 }
